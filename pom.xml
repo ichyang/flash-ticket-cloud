@@ -16,10 +16,10 @@
     <modules>
         <module>flash-order-service</module>
         <module>flash-ticket-service</module>
-        <module>newbee-mall-cloud-user-service</module>
-        <module>newbee-mall-cloud-gateway-mall</module>
-        <module>newbee-mall-cloud-gateway-admin</module>
-        <module>newbee-mall-cloud-common</module>
+        <module>flash-user-service</module>
+        <module>flash-gateway-mall</module>
+        <module>flash-gateway-admin</module>
+        <module>flash-common</module>
     </modules>
 
     <properties>
